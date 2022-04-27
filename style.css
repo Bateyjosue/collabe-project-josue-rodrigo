@@ -1,12 +1,17 @@
 #navbar{
     position: fixed;
-    height: 50px;
+    top: 0;
+    left: 0;
     width: 100%;
     background-color: brown;
 }
 
+section{
+    height: 600px;
+}
+
 #welcome-section{
-    height: 100%;
+    height: 100vh;
 }
 
 @media (max-width: 1000px){
