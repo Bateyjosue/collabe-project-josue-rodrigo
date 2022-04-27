@@ -1,0 +1,16 @@
+#navbar{
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    background-color: brown;
+}
+
+#welcome-section{
+    height: 100%;
+}
+
+@media (max-width: 1000px){
+    body{
+        background-color: aquamarine;
+    }
+}
